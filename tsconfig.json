@@ -21,7 +21,6 @@
     "paths": {
       "@config/*": ["./src/config/*"],
       "@controllers/*": ["./src/controllers/*"],
-      "@views/*": ["./src/views/*"],
       "@models/*": ["./src/models/*"]
     } 
   },
